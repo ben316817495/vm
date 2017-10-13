@@ -1,0 +1,2 @@
+webpackJsonp([1],{379:function(t,e,n){var r=n(0)(n(385),n(383),null,null);t.exports=r.exports},383:function(t,e){t.exports={render:function(){var t=this,e=t.$createElement;return(t._self._c||e)("div",{staticClass:"teamB_login"},[t._v("\n    "+t._s(t.routeVal)+"\n")])},staticRenderFns:[]}},385:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default={mounted:function(){this.routeVal=this.$route.query},data:function(){return{routeVal:{}}},methods:{}}}});
+//# sourceMappingURL=1.cab5a6fd8c905903ee0f.js.map
